@@ -5,8 +5,7 @@ import (
 )
 
 // Test function implemented in line with the Golang's testing tool
-func TestRiverCrossingX(t *testing.T) {
-
-	RiverCrossingX()
+func TestFinalEnd(at *testing.T) {
+	FinalEnd()
 
 }
