@@ -5,7 +5,7 @@ Data communication & operating system (IS-105)
 ### Installation
 
 
-> git clone <github-URL-repo>
+> git clone [repo-url]
 
 
 ### Contributing
